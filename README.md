@@ -5,9 +5,9 @@ The further maintenance, support and development of the python2 based version is
 
 Please make sure you have converted ALL custom converters and filters to py3 syntax before upgrading the connector to the 2.1.0 or above.
 
-# The Oomnitza Connector
-Oomnitza has created a unified connector, lovingly crafted using Python, which is a single application that
- can be used to pull data from multiple sources and push it to your Oomnitza application. The connector can
+# The Oomnitza Python API Connector
+Oomnitza created a unified connector, crafted using Python, which is a single application that
+ can be used to pull data from multiple sources and push it to an Oomnitza Cloud instance. The connector can
  presently pull data from the following sources:
 
 * Airwatch [http://www.air-watch.com](http://www.air-watch.com/)
